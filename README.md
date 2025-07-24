@@ -1,1 +1,2 @@
 # Michelle-Bio-Readme
+- My name is Michelle Chen and I am a 17 year old high school student who aspires to pursue a career in tech. My future goal is to have a job in the cybersecurity field after gaining a graduate degree in cybersecurity or IT. My goal for KCCF is to learn more and complete projects that will demonstrate my skill in tech. Learning GitHub allows me to share any future projetcs I have since it's essential in programming. 
